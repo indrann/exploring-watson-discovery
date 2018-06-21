@@ -1,4 +1,4 @@
-# Watson Mini Hack Training
+# BP: Explorting Watson Discovery and Other API's
 ====================================
 
 This project is used to support  Watson  training sessions at various clients conducted by IBM Developer Advocates. Because this is a public repo, it contains no client specific information. Note however that  the content may be updated over time to support different training sessions. It is  therefore recommended that you clone  the project at the time of your training session so the material will match the agenda of your session.
