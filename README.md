@@ -20,7 +20,7 @@ In this lab, you will familiarize yourself with the Watson Assistant service too
 
 Follow the instructions at the link below to complete the lab.
 
-
+[lab link](https://github.com/indrann/watson-discovery-analyze-data-breaches)
 [Instructions](https://github.com/djccarew/watson-assistant-lab)
 
 
