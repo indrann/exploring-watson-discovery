@@ -1,7 +1,7 @@
-# Watson Mini Hack Training
+# Watson Developer Walthrough 
 ====================================
 
-This project is used to support  Watson  training sessions at various clients conducted by IBM Developer Advocates. Because this is a public repo, it contains no client specific information. Note however that  the content may be updated over time to support different training sessions. It is  therefore recommended that you clone  the project at the time of your training session so the material will match the agenda of your session.
+This project is used to support  Watson  developer walkthrough training sessions at various clients conducted by IBM Developer Advocates. Because this is a public repo, it contains no client specific information. Note however that  the content may be updated over time to support different training sessions. It is  therefore recommended that you clone  the project at the time of your training session so the material will match the agenda of your session.
 
 
 ## Watson Services Guide for Developers
@@ -9,7 +9,7 @@ This project is used to support  Watson  training sessions at various clients co
 The [Watson Services Guide for Developers](WatsonServicesGuideForDevelopersV2.0.pdf) is a summary of the information presented at the training session. It contains links to relevant information and resources and has a one page summary of each Watson API.
 
 
-## Labs
+## Walk Throughs/Labs
 
 These are the instructions and all supporting files for the hands-on-lab exercises.
 
