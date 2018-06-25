@@ -28,7 +28,7 @@ In this walkthrough, you will use an existing news dataset to perform queries an
 
 Follow the instructions at the link below to complete the lab.
 
-[Instructions](https://github.com/djccarew/watson-assistant-lab)
+[Instructions](https://github.com/indrann/watson-discovery-news-alerting)
 
 
 ### Lab 3 - Watson NLU and Watson Tone Analyzer
