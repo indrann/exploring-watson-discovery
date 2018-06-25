@@ -24,7 +24,7 @@ Follow the instructions at the link below to follow along:
 
 
 ### Walkthrough 2 - Watson Discovery News 
-In this walkthrough, you will use an existing news dataset to perform queries and exolore the differences between regular search and Discovery.  You will also review how Discovery can be trained. 
+In this walkthrough, you will use an existing news dataset to perform queries and exolore the differences between regular search and Discovery.  
 
 Follow the instructions at the link below to complete the lab.
 
